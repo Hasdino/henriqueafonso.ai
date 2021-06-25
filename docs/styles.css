@@ -1,10 +1,16 @@
 body {
   background-color: #292C35 ;
+  font-family:Montserrat; font-size:14px; color: white;
 }
 
-p {
-style = " font-family: Montserrat " , color="#FF7A59"
+hr { background-color: white; height: 2px; border: -100;width:75% }
 
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    color: #fff;
+    align-self: flex-end;
+    bottom: 0;
+    position: fixed;
 }
-
-
