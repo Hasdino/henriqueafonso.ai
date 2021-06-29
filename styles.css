@@ -148,13 +148,11 @@ footer{
   border: 0px;
   margin-left: -100px;
   margin-right: 5em;
-  z-index:-1;
   
 }
 
 .github:hover{
   background-color:black;
-  z-index:-1;
 }
 
 
@@ -165,7 +163,6 @@ footer{
   margin-top: 20px;
   border: 0px;
   margin-right: 5em;
-  z-index:-1;
 
 }
 
@@ -175,7 +172,6 @@ footer{
   margin-top: 20px;
   border: 0px;
   margin-right: -100px;
-  z-index:-1;
 
 
 }
@@ -183,10 +179,8 @@ footer{
 
 .twitter:hover{
   background-color:black;
-  z-index:-1;
 }
 
 .stack:hover{
   background-color:black;
-  z-index:-1;
 }
