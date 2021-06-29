@@ -2,6 +2,7 @@
   padding:0;
   margin:0;
   box-sizing: border-box;
+  z-index:-1;
 
 }
 
@@ -31,7 +32,7 @@
   height: inherit;
   line-height: inherit;
   padding: 0 30px;
-  font-size: 40px;
+  font-size: 20px;
   text-transform: uppercase;
   color: white;
   font-weight: bold;
@@ -136,6 +137,7 @@ footer{
   left: 0px; 
   text-align: center;
   position: fixed;
+  z-index:-1;
 }
 
 
@@ -146,12 +148,16 @@ footer{
   border: 0px;
   margin-left: -100px;
   margin-right: 5em;
+  z-index:-1;
   
 }
 
 .github:hover{
   background-color:black;
+  z-index:-1;
 }
+
+
 
 .twitter{
   cursor: pointer;
@@ -159,6 +165,7 @@ footer{
   margin-top: 20px;
   border: 0px;
   margin-right: 5em;
+  z-index:-1;
 
 }
 
@@ -168,6 +175,18 @@ footer{
   margin-top: 20px;
   border: 0px;
   margin-right: -100px;
+  z-index:-1;
 
 
+}
+
+
+.twitter:hover{
+  background-color:black;
+  z-index:-1;
+}
+
+.stack:hover{
+  background-color:black;
+  z-index:-1;
 }
