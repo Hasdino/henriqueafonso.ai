@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -24,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/jekyll"
-url: "https://github.com/Hasdino/henriqueafonso.ai"
+baseurl: "/henriqueafonso.ai/jekyll"
+url: "https://github.com/Hasdino"
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -34,6 +35,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+include: ['henriqueafonso.ai/jekyll']
+relative_permalinks: false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
