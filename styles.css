@@ -70,11 +70,13 @@
 }
 
 body{
+  margin-top: 0%;
   background-color: whitesmoke;
   /* margin-top: 30px; */
   /* margin-bottom: 50%; */
-  /* margin-right: 250px; */
+  margin-right: 250px;
   margin-left: 250px;
+  
   color: rgb(0, 0, 0);
   opacity: 100;
 }
@@ -89,6 +91,7 @@ body{
   text-align: left;
   font-weight: bold;
 
+
   
 }
   
@@ -98,8 +101,7 @@ h2{
   font-size: 50px;
   text-align:center;
   font-weight: bold;
-  width: 200%;
-  /* margin-top: 5%; */
+  margin-top: 5%;
 }
 
 
