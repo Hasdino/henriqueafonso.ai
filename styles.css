@@ -10,9 +10,9 @@
   background-color: grey;
   color: white;
   border-bottom: 0.5px solid gray;
-  width:auto;
+  width:100%;
   line-height: 88px;
-  height: auto;
+  /* height: 88px; */
   font-size: 18px;
   padding:0 30px;
   position: fixed;
@@ -88,7 +88,7 @@ body{
 .content{
   font-family: "Montserrat";
   color: black;
-  margin-top: 0%;
+ 
   text-align: left;
   font-weight: bold;
   width:  200%;
