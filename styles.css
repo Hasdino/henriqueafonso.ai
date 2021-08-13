@@ -20,7 +20,7 @@
   left: 0;
   font-family: 'Montserrat';
   
-  flex-flow: row nowrap;
+  
 }
 
 .navbar a {
@@ -94,7 +94,7 @@ body{
 .content{
   font-family: "Montserrat";
   color: black;
- position: relative;
+  position: relative;
   text-align: left;
   font-weight: bold;
   width:  200%;
