@@ -26,7 +26,7 @@
 .navbar a {
   text-decoration: none;
   color: white;
-  flex-flow: row wrap;
+  
 
 }
 
@@ -34,7 +34,7 @@
   float: left;
   /* height: inherit; */
   /* line-height: inherit; */
-  padding: 0 30px;
+  padding: 0 3vw;
   font-size: 12px;
   text-transform: uppercase;
   color: white;
@@ -42,7 +42,7 @@
   font-family:"Montserrat";
   letter-spacing: 2px;
   cursor: default;
-  flex-flow: row wrap;
+  
 
 }
 
@@ -51,7 +51,8 @@
   float:right;
   /* height: inherit; */
   /* line-height: inherit; */
-  padding:0 3%;
+  padding:0 3vw;
+  
 
 }
 
