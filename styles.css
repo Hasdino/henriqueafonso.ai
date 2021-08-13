@@ -12,7 +12,7 @@
   border-bottom: 0.5px solid gray;
   width: 100%;
   line-height: 88px;
-  /* height: 88px; */
+  height: auto;
   font-size: 18px;
   padding:0 30px;
   position: fixed;
@@ -31,7 +31,7 @@
   float: left;
   height: inherit;
   line-height: inherit;
-  /* padding: 0 30px; */
+  padding: 0 30px;
   font-size: 20px;
   text-transform: uppercase;
   color: white;
@@ -48,7 +48,7 @@
   list-style: none;
   height: inherit;
   line-height: inherit;
-  /* padding:0 3%; */
+  padding:0 3%;
 
 }
 
