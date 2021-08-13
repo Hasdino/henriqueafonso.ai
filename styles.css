@@ -48,7 +48,7 @@
   list-style: none;
   height: inherit;
   line-height: inherit;
-  padding:0 3%;
+  /* padding:0 3%; */
 
 }
 
@@ -75,10 +75,12 @@ body{
   /* margin-top: 30px; */
   /* margin-bottom: 50%; */
   /* margin-right: 250px; */
-  margin-left: 250px;
+  /* margin-left: 250px; */
   /* margin-right */
   color: rgb(0, 0, 0);
   opacity: 100;
+  margin: 5%;
+  
 }
 
 
@@ -87,9 +89,11 @@ body{
 .content{
   font-family: "Montserrat";
   color: black;
-  margin-top: 10%;
+  margin-top: 0%;
   text-align: left;
   font-weight: bold;
+  width:  200%;
+
 
 
 }
@@ -100,7 +104,7 @@ h2{
   font-size: 50px;
   text-align:center;
   font-weight: bold;
-  margin-top: 5%;
+  /* margin-top: 5%; */
   /* width: 200%; */
   /* margin-top: 5%; */
 }
@@ -116,7 +120,7 @@ h3{
 
 .content li{
   list-style-position: inside;
-  padding-left: 0;
+  /* padding-left: 0; */
 }
 
 p{
@@ -152,7 +156,7 @@ main{
 img{
     /* margin-top: 250px;
     margin-left: 140px; */
-    width:700%;
+    /* width:700%; */
     filter: grayscale(1);
   }
 
