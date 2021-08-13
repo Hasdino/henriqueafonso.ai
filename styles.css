@@ -14,8 +14,8 @@
   line-height: 88px;
   /* height: 88px; */
   font-size: 18px;
-  padding:0 30px;
-  position:fixed;
+  /* padding:0 30px; */
+  position:absolute;
   top: 0;
   left: 0;
   font-family: 'Montserrat';
