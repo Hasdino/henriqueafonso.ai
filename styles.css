@@ -74,7 +74,7 @@
 }
 
 body{
-  margin-top: 5%;
+  
   background-color: whitesmoke;
   /* margin-top: 30px; */
   /* margin-bottom: 50%; */
@@ -84,7 +84,7 @@ body{
   color: rgb(0, 0, 0);
   opacity: 100;
   margin: 5%;
-  position: relative;
+  
   
 }
 
@@ -94,7 +94,7 @@ body{
 .content{
   font-family: "Montserrat";
   color: black;
- 
+ position: relative;
   text-align: left;
   font-weight: bold;
   width:  200%;
