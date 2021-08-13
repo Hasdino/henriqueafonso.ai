@@ -45,21 +45,20 @@
 .navbar ul {
 
   float:right;
-  list-style: none;
-  height: inherit;
+  /* height: inherit; */
   line-height: inherit;
   padding:0 3%;
 
 }
 
 .navbar ul li {
-  display: inline-block;
+  display:inline-block;
 }
 
 .navbar ul li a{
   display: block;
   text-align: center;
-  min-width: 120px;
+  min-width: 100px;
   /* padding: 0 30px; */
 
 }
