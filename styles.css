@@ -11,7 +11,7 @@
   color: white;
   border-bottom: 0.5px solid gray;
   width:100%;
-  line-height: 88px;
+  line-height: 75px;
   /* height: 88px; */
   font-size: 14px;
   /* padding:0 30px; */
@@ -83,7 +83,7 @@ body{
   /* margin-right */
   color: rgb(0, 0, 0);
   opacity: 100;
-  margin: 7% 5% 5% 5%;
+  margin: 3% 5% 5% 5%;
   
   
 }
