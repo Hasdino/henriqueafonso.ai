@@ -84,6 +84,7 @@ body{
   color: rgb(0, 0, 0);
   opacity: 100;
   margin: 5%;
+  position: relative;
   
 }
 
@@ -91,10 +92,9 @@ body{
 
 
 .content{
-  margin-top: 5%;
   font-family: "Montserrat";
   color: black;
-  position: relative;
+ 
   text-align: left;
   font-weight: bold;
   width:  200%;
