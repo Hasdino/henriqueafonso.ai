@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 <<<<<<< HEAD
 baseurl: "/henriqueafonso.ai/jekyll"
 =======
-baseurl: "/henriqueafonso.ai//tree/master/jekyll/" 
+baseurl: "/henriqueafonso.ai/jekyll/" 
 url: "https://github.com/Hasdino"
 twitter_username: Hasden_Afonso
 github_username:  Hasdino
