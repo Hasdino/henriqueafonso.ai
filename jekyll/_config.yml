@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   where i share papers i find interesting from other people etc etc.
 
 
-baseurl: "/henriqueafonso.ai/jekyll/" 
+baseurl: "/henriqueafonso.ai/jekyll" 
 url: "https://github.com/Hasdino"
 twitter_username: Hasden_Afonso
 github_username:  Hasdino
@@ -35,7 +35,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-include: ['henriqueafonso.ai/jekyll/']
+include: ['henriqueafonso.ai/jekyll']
 relative_permalinks: false
 # Exclude from processing.
 # The following items will not be processed, by default.
