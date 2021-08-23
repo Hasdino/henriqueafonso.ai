@@ -35,7 +35,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-include: ['henriqueafonso.ai/jekyll']
+include: ['henriqueafonso.ai/jekyll/_posts']
 relative_permalinks: false
 # Exclude from processing.
 # The following items will not be processed, by default.
