@@ -12,14 +12,14 @@
   border-bottom: 0.5px solid gray;
   width:100%;
   line-height: 75px;
-  
+  /* height: 88px; */
   font-size: 14px;
-  
+  /* padding:0 30px; */
   position:fixed;
   top: 0;
   left: 0;
   font-family: 'Montserrat';
-  /* z-index: 500; */
+  z-index: 500;
   
   
 }
@@ -50,6 +50,8 @@
 .navbar ul {
 
   float:right;
+  /* height: inherit; */
+  /* line-height: inherit; */
   padding:0 3vw;
   
 
@@ -63,6 +65,8 @@
   display: block;
   text-align: center;
   min-width: 100px;
+  /* padding: 0 30px; */
+
 }
 
 .navbar ul li a:hover{
@@ -72,10 +76,18 @@
 
 body{
   background-color: whitesmoke;
+  /* margin-top: 30px; */
+  /* margin-bottom: 50%; */
+  /* margin-right: 250px; */
+  /* margin-left: 250px; */
+  /* margin-right */
   color: rgb(0, 0, 0);
   opacity: 100;
   margin: 3% 5% 5% 5%;
-  margin-bottom:50px;  
+  margin-bottom:50px;
+
+  
+  
 }
 
 
@@ -98,6 +110,9 @@ h2{
   font-size: 50px;
   text-align:center;
   font-weight: bold;
+  /* margin-top: 5%; */
+  /* width: 200%; */
+  /* margin-top: 5%; */
 }
 
 
@@ -111,6 +126,7 @@ h3{
 
 .content li{
   list-style-position: inside;
+  /* padding-left: 0; */
 }
 
 p{
@@ -125,14 +141,15 @@ main{
   }
 
 .btns{
-    
+    /* margin-top: 20%; */
     background-color: gray;
     cursor: pointer;
     color: whitesmoke;
-    
+    /* padding: 12px 20px; */
     float: left;
     border: 0px;
-    
+    /* border-radius: 20px; */
+    /* margin-left: 10px; */
     font-family: "Montserrat";
 
   }
@@ -156,9 +173,9 @@ footer{
   right: 0px;
   text-align: center;
 
-  position: relative;
-  bottom: 0;
-  transform: translateY(150%);
+  position:fixed;
+  bottom:0;
+  
   
 }
  
