@@ -84,7 +84,7 @@ body{
   color: rgb(0, 0, 0);
   opacity: 100;
   margin: 3% 5% 5% 5%;
-  
+  position:relative;
   
 }
 
@@ -184,7 +184,7 @@ footer{
   color:whitesmoke;
   margin-top: 20px;
   border: 0px;
-  
+  margin-left: 100px;
   
   
 }
