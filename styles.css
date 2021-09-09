@@ -9,7 +9,7 @@
 .navbar{
   background-color: grey;
   color: white;
-  border-bottom: 0.5px solid gray;
+  border-bottom:0.5px solid gray;
   width:100%;
   line-height: 75px;
   font-size: 14px;
@@ -242,4 +242,11 @@ footer{
   .navbar ul {
   padding:0 0vw;
 }
+.navbar ul li a{
+ 
+  min-width: 75px;
+ 
+
+}
+
 }
