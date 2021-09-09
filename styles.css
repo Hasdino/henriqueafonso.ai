@@ -265,7 +265,7 @@ footer{
 
 .content{
   
-  margin-top: 50%;
+  margin-top: 75%;
 }
 
 
@@ -277,11 +277,11 @@ footer{
 .navbar a.nav-logo {
     letter-spacing: 1px;
     font-size: 11px;
-    padding: 0 15vw;
+    padding: 0 50vw;
 
   }
 .navbar ul {
-  padding:0 15vw;
+  padding:0 50vw;
 }
 .navbar ul li a{
  
