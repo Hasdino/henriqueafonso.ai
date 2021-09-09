@@ -70,6 +70,7 @@
 }
 
 body{
+  
   background-color: whitesmoke;
   color: rgb(0, 0, 0);
   opacity: 100;
@@ -90,7 +91,8 @@ body{
 
 
 .content{
-  margin-top:5%;
+  
+  margin-top: 10%;
   font-family: "Montserrat";
   color: black;
   /* position: relative; */
@@ -234,10 +236,10 @@ footer{
   .navbar a.nav-logo {
     letter-spacing: 1px;
     font-size: 10px;
-    padding: 0 3vw;
+    padding: 0 0vw;
 
   }
   .navbar ul {
-  padding:0 1vw;
+  padding:0 0vw;
 }
 }
