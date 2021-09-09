@@ -250,3 +250,13 @@ footer{
 }
 
 }
+
+
+@media (max-height: 640px) {
+  .content{
+  
+  margin-top: 15%;
+}
+}
+
+
