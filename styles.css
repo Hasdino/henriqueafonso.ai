@@ -12,14 +12,13 @@
   border-bottom: 0.5px solid gray;
   width:100%;
   line-height: 75px;
-  /* height: 88px; */
   font-size: 14px;
-  /* padding:0 30px; */
   position:fixed;
   top: 0;
   left: 0;
   font-family: 'Montserrat';
   /* z-index: 500; */
+  
   
   
 }
@@ -33,8 +32,6 @@
 
 .navbar a.nav-logo{
   float: left;
-  /* height: inherit; */
-  /* line-height: inherit; */
   padding: 0 3vw;
   font-size: 12px;
   text-transform: uppercase;
@@ -50,8 +47,6 @@
 .navbar ul {
 
   float:right;
-  /* height: inherit; */
-  /* line-height: inherit; */
   padding:0 3vw;
   
 
@@ -65,7 +60,7 @@
   display: block;
   text-align: center;
   min-width: 100px;
-  /* padding: 0 30px; */
+ 
 
 }
 
@@ -234,6 +229,7 @@ footer{
 @media (max-width: 400px) {
   .navbar {
     font-size: 10px; 
+    display: inline;
   }
   .navbar a.nav-logo {
     letter-spacing: 1px;
@@ -243,4 +239,5 @@ footer{
   }
   .navbar ul {
   padding:0 1vw;
+}
 }
