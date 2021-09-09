@@ -10,3 +10,7 @@ Making my website to learn and to share things i find interesting, no bootstrap 
 769px — 1024px: Small screens, laptops
 1025px — 1200px: Desktops, large screens
 1201px and more —  Extra large screens, TV
+
+
+
+change stack for linkedin eventually( not a fan tho)
