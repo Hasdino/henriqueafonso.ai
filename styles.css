@@ -261,3 +261,33 @@ footer{
 }
 
 
+@media (max-width:300px){
+
+.content{
+  
+  margin-top: 25%;
+}
+
+
+.navbar {
+    font-size: 12px; 
+    display: inline;
+    z-index: 500;
+  }
+.navbar a.nav-logo {
+    letter-spacing: 1px;
+    font-size: 11px;
+    padding: 0 5vw;
+
+  }
+.navbar ul {
+  padding:0 5vw;
+}
+.navbar ul li a{
+ 
+  min-width: 75px;
+ 
+
+}
+}
+
