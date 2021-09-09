@@ -277,11 +277,11 @@ footer{
 .navbar a.nav-logo {
     letter-spacing: 1px;
     font-size: 11px;
-    padding: 0 50vw;
+    padding: 0 35vw;
 
   }
 .navbar ul {
-  padding:0 50vw;
+  padding:0 35vw;
 }
 .navbar ul li a{
  
