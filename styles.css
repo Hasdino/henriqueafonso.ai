@@ -236,11 +236,11 @@ footer{
   .navbar a.nav-logo {
     letter-spacing: 1px;
     font-size: 10px;
-    padding: 0 0vw;
+    padding: 0 1vw;
 
   }
   .navbar ul {
-  padding:0 0vw;
+  padding:0 1vw;
 }
 .navbar ul li a{
  
